@@ -27,9 +27,7 @@
 ---
 
 ### 📬 Let's Connect!  
-[![Portfolio](https://img.shields.io/badge/🌐-Website-2ea44f)](https://yourwebsite.com)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AyushNamdev05)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushnamdev/)  
+[![Portfolio](https://img.shields.io/badge/🌐-Website-2ea44f)](https://yourwebsite.com) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AyushNamdev05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushnamdev/)  
 
 ---
 
